@@ -1,0 +1,7 @@
+yfinance
+yahoo_fin.stock_info
+pandas
+datetime
+numpy
+sklearn.preprocessing
+warnings
